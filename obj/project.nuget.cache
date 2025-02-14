@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "V66vh2B/uvUCxCOXZnt6O0B9HmlSheaZWJy2EGou+hlXeecGTPILViIg+NVDkETpFSMSgQWpL1FZZSpGk1gurg==",
+  "success": true,
+  "projectFilePath": "C:\\2course\\kpo\\zoo\\zoo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\friwg\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.2\\microsoft.extensions.dependencyinjection.9.0.2.nupkg.sha512",
+    "C:\\Users\\friwg\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.2\\microsoft.extensions.dependencyinjection.abstractions.9.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
